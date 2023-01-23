@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-family: "Courier New", Courier, monospace;
+  color: aliceblue;
+}
+body {
+  margin: 0;
+  background-color: rgb(57, 50, 50);
+}
+
+.dasd {
+  background-color: rgb(198, 177, 38);
+}
